@@ -1,4 +1,2 @@
-CS5410
-======
-
-Phil and Scotty's CS5410 repository
+Scotty's Asteroid repository
+making changes to 2014 version
